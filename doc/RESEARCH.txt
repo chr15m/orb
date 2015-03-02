@@ -1,0 +1,13 @@
+Caret input style
+	http://stackoverflow.com/questions/7339333/styling-text-input-caret
+	http://shachi.prophp.org/demo.html
+	http://stackoverflow.com/questions/3758023/how-to-use-this-square-cursor-in-a-html-input-field
+
+Audio
+	https://github.com/grantgalitz/XAudioJS
+	https://github.com/jussi-kalliokoski/sink.js
+
+UI
+	http://holmsand.github.io/reagent/
+	https://github.com/mleibman/SlickGrid/wiki/Examples
+
