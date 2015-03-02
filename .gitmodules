@@ -1,0 +1,6 @@
+[submodule "resources/public/lib/SlickGrid"]
+	path = resources/public/lib/SlickGrid
+	url = git@github.com:mleibman/SlickGrid.git
+[submodule "resources/public/lib/sinkjs"]
+	path = resources/public/lib/sinkjs
+	url = git@github.com:jussi-kalliokoski/sink.js.git
